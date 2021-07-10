@@ -1,0 +1,14 @@
+---
+layout: sale
+title: Sale
+categories: sale
+image1: 3_1
+color1: Black
+image2: 3_2
+color2: Blue
+image3: 3_3
+color3: Red
+price: 300 
+form_link: 1FAIpQLSfv3CJRxu0lC0GG1VCZZYDLOuNAs6B-Gp5pairHooVkpSiAuw
+productcode: AUG004
+---
